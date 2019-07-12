@@ -885,5 +885,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Temporary */
 .center {
-  margin-left: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
