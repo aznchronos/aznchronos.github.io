@@ -876,12 +876,12 @@ h1, h2, h3, h4, h5, h6 {
 #site-title a span:nth-child(6){
  animation-delay: 0.105s;
 }
-#site-title a span:nth-child(7){
+/* #site-title a span:nth-child(7){
  animation-delay: 0.1075s;
 }
 #site-title a span:nth-child(8){
  animation-delay: 0.2s;
-}
+} */
 
 /* Temporary */
 .center {
